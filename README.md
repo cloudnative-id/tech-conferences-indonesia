@@ -8,7 +8,7 @@ To add a conference to the list, please [contribute](#contributing)! Inspired by
 
 | Conference | Date | Venue | Description | Scholarship |
 |------------|------|-------|-------------|-------------|
-| TBD | TBD | TBD | TBD | TBD |
+| [RubyConf Indonesia](https://ruby.id/conf/2019/index.html) | 29 September 2019 | SCTV Hall, Senayan City, Jakarta | A global event complementing other RubyConf events across the world. This year it's a single track 1 day event, focused on the Modern Web. | No |
 
 ## Contributing
 
