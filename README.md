@@ -10,7 +10,7 @@ To add a conference to the list, please [contribute](#contributing)! Inspired by
 |------------|------|-------|-------------|-------------|
 | [Open Infrastructure Day](https://www.openstack.id/2019/07/21/call-for-presentations-of-indonesia-open-infrastructure-day-2019/) | 2 November 2019 | Surabaya | A conference related to various open infrastructure topics, including cloud, container, CI/CD, automation, big data, SDN, AI, IoT, HPC, Security. | No |
 | [RubyConf Indonesia](https://ruby.id/conf/2019/index.html) | 29 September 2019 | SCTV Hall, Senayan City, Jakarta | A global event complementing other RubyConf events across the world. This year it's a single track 1 day event, focused on the Modern Web. | No |
-| [South East Asia Machine Learning School](https://www.sea-mls.com) | 8-12 July 2019 | Faculty of Computer Science (New Building), Universitas Indonesia, Greater Jakarta | The Southeast Asia Machine Learning School is a five-day event where participants have the chance to learn more about the current state of the art in machine learning and deep learning, including relevant applications to data science, computer vision, and natural language processing. | No |
+| [South East Asia Machine Learning School](https://www.sea-mls.com) | 8-12 July 2019 | Universitas Indonesia, Greater Jakarta | SEAMLS is a five-day event about state of the art in machine learning and deep learning, including relevant applications to data science, computer vision, and NLP. | No |
 
 ## Contributing
 
