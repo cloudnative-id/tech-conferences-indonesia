@@ -8,6 +8,7 @@ To add a conference to the list, please [contribute](#contributing)! Inspired by
 
 | Conference | Date | Venue | Description | Scholarship |
 |------------|------|-------|-------------|-------------|
+| [Open Infrastructure Day](https://www.openstack.id/2019/07/21/call-for-presentations-of-indonesia-open-infrastructure-day-2019/) | 2 November 2019 | Surabaya | A conference related to various open infrastructure topics, including cloud, container, CI/CD, automation, big data, SDN, AI, IoT, HPC, Security. | No |
 | [RubyConf Indonesia](https://ruby.id/conf/2019/index.html) | 29 September 2019 | SCTV Hall, Senayan City, Jakarta | A global event complementing other RubyConf events across the world. This year it's a single track 1 day event, focused on the Modern Web. | No |
 
 ## Contributing
