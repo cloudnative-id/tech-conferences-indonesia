@@ -8,6 +8,7 @@ To add a conference to the list, please [contribute](#contributing)! Inspired by
 
 | Conference | Date | Venue | Description | Scholarship |
 |------------|------|-------|-------------|-------------|
+|[Python Conference Indonesia 2019](https://pycon.id)|23 November 2019 | Universitas Ciputra, Surabaya | The third PyCon ID back to Surabaya! A conference where Python users or people interested in Python gather to learn from each other and meet other members of the community from all around the world. | TBA |
 | [Open Infrastructure Day](https://www.openstack.id/2019/07/21/call-for-presentations-of-indonesia-open-infrastructure-day-2019/) | 2 November 2019 | Surabaya | A conference related to various open infrastructure topics, including cloud, container, CI/CD, automation, big data, SDN, AI, IoT, HPC, Security. | No |
 | [openSUSE.Asia Summit 2019](https://events.opensuse.org/conferences/summitasia19/) | 5-6 October, 2019 | Udayana University, Bali | openSUSE.Asia Summit is community conference to share the most recent knowledge, experiences, and learnings of FLOSS technologies surrounding openSUSE. | Yes, for speaker |
 | [RubyConf Indonesia](https://ruby.id/conf/2019/index.html) | 29 September 2019 | SCTV Hall, Senayan City, Jakarta | A global event complementing other RubyConf events across the world. This year it's a single track 1 day event, focused on the Modern Web. | No |
