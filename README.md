@@ -8,6 +8,7 @@ To add a conference to the list, please [contribute](#contributing)! Inspired by
 
 | Conference | Date | Venue | Description | Scholarship |
 |------------|------|-------|-------------|-------------|
+| [UbuCon Asia 2023](https://2023.ubucon.asia/) | 7-8 Oktober 2023 | UNS, Surakarta | UbuCon Asia is an event organized by Ubuntu Communities in Asia. It’s for everyone who involved with or interested in Ubuntu, Linux and other Free and Open source technologies. | TBA |
 |[PyCon Indonesia](https://pycon.id)|23 November 2019 | Universitas Ciputra, Surabaya | Annual Python conference where Python users or people interested in Python gather to learn from each other and meet other members of the community from all around the world. | TBA |
 | [Open Infrastructure Day](https://www.openstack.id/2019/07/21/call-for-presentations-of-indonesia-open-infrastructure-day-2019/) | 2 November 2019 | Surabaya | A conference related to various open infrastructure topics, including cloud, container, CI/CD, automation, big data, SDN, AI, IoT, HPC, Security. | No |
 | [openSUSE.Asia Summit](https://events.opensuse.org/conferences/summitasia19/) | 5-6 October, 2019 | Udayana University, Bali | openSUSE.Asia Summit is community conference to share the most recent knowledge, experiences, and learnings of FLOSS technologies surrounding openSUSE. | Yes, for speaker |
